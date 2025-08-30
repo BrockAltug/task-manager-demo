@@ -17,7 +17,7 @@ const dmSans = DM_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "TaskFlow - Professional Task Management",
+  title: "SoftEdge - Task Manager Demo",
   description: "Professional task management with intelligent prioritization and deadline tracking",
   generator: "v0.app",
   manifest: "/manifest.json",
