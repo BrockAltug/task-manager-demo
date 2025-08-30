@@ -8,7 +8,7 @@ Featuring **glassmorphism design**, **particle animations**, and **intelligent p
 </p>
 
 <p align="center">
-  <a href="https://task-manager-demo.netlify.app" target="_blank">
+  <a href="https://task-manger-demo.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live Demo-1e40af?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo">
   </a>
 </p>
