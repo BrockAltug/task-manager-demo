@@ -1,0 +1,51 @@
+{
+  "name": "TaskFlow - Professional Task Management",
+  "short_name": "TaskFlow",
+  "description": "Professional task management with intelligent prioritization and deadline tracking",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["productivity", "utilities", "business"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Create Task",
+      "short_name": "New Task",
+      "description": "Quickly create a new task",
+      "url": "/?action=create",
+      "icons": [
+        {
+          "src": "/icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
